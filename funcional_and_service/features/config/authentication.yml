@@ -1,0 +1,11 @@
+dev:
+  username:
+  password:
+ 
+hom:
+  username:
+  password:
+
+prod:
+  username: 'keyrustestautomation@gmail.com'
+  password: 'keyrus01'

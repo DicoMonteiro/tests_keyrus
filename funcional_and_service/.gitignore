@@ -1,0 +1,9 @@
+.DS_Store
+Gemfile.lock
+.vscode/launch.json
+*.log
+vendor/
+cucumber.json
+dump.rbd
+results/images
+results/*.html

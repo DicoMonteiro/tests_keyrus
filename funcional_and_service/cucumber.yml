@@ -1,0 +1,8 @@
+#Arquivo para alterar em qual browser vai executar os scripts o formato e a saida dos resultados
+default: --format pretty -p html -p headless
+html: --format html --out=reports/result.html
+json: --format json --out=reports/result.json
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
+ie: BROWSER=ie
+headless: BROWSER=headless

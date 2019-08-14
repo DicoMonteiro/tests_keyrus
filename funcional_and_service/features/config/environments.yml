@@ -1,0 +1,14 @@
+# urls para dos ambiente
+dev:
+  url1:
+  url2:
+  url3:
+
+hom:
+  url1:
+  url2:
+  url3:
+
+prod:
+  ecommerce: 'https://www.mercadolivre.com.br'
+  api_endereco: 'https://viacep.com.br/ws/04524030/json/'

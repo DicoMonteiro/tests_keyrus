@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'capybara'
+gem 'chromedriver-helper'
+gem 'cucumber'
+gem 'page-object'
+gem 'pry'
+gem 'rspec'
+gem 'site_prism'
+gem 'httparty'
+gem 'selenium-webdriver'
+gem 'pry-coolline'
+gem 'rb-readline'
